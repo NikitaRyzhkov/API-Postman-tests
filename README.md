@@ -53,7 +53,7 @@
 
 **Postman** для написания запросов и тестовых скриптов;
 
-**Google Tables** для создания тестовых артефактов;
+**Google Sheets** для создания тестовых артефактов;
 
 Документация Todoist API, доступная по ссылке: https://developer.todoist.com/rest/v2/#overview;
 
